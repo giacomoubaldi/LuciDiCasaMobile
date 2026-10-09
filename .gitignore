@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+.env
+.luci_tapo_credentials.json
+.shelly_home_mobile.json
